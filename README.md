@@ -22,7 +22,7 @@ Upload These Tools On The Target Website.
 
 ## Authors
 
-Ahmat Badali [Jamet1337](https://github.com/jamet1337)  
+Ahmat Badali [(Jamet1337)](https://github.com/jamet1337)  
 
 ## Thanks to
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
