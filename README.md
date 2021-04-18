@@ -16,16 +16,13 @@ Upload These Tools On The Target Website.
 
 ## Contact
 
-[Facebook](https://www.facebook.com/ahmat.badali.334)
-[WhatsApp](https://wa.me/085654869732)
-[Email](mailto:jamet1337@gmail.com)
-```
-Jamet1337
-```
+* [Facebook](https://www.facebook.com/ahmat.badali.334)
+* [WhatsApp](https://wa.me/085654869732)
+* [Email](mailto:jamet1337@gmail.com)
 
 ## Authors
 
-Ahmat Badali (Jamet1337)  
+Ahmat Badali [Jamet1337](https://github.com/jamet1337)  
 
 ## Thanks to
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
