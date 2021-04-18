@@ -9,10 +9,8 @@ Tools for Hacking Website Cpanel.
 ### Executing tools
 
 * How to run the tools
-* 
-```
-Upload These Tools On The Target Website.
-```
+* Upload This Tools On The Target Website.
+
 
 ## Contact
 
