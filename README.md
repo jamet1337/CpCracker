@@ -6,10 +6,10 @@ Cpanel Cracking Tools.
 
 Tools for Hacking Website Cpanel.
 
-### Executing tools
+### How to use it?
 
-* How to run the tools
-* Upload This Tools On The Target Website.
+* Read Articles👇
+* [https://jawarahacking.com/2021/04/18/cara-mudah-crack-cpanel-dengan-tools-cpcrack/](https://jawarahacking.com/2021/04/18/cara-mudah-crack-cpanel-dengan-tools-cpcrack/)
 
 
 ## Contact
